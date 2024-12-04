@@ -1,84 +1,84 @@
-# Josh "Yosh" Nebe
+# Josh “Yosh” Nebe
+**1545 NW Market St., Apt. 803, Seattle, WA 98107**  
+**(206) 300-7432 | Yosh.Nebe@gmail.com**  
+**GitHub:** [github.com/yoshed-it](https://github.com/yoshed-it)
+**Blog:** [dev.io/yoshed-it](https://dev.to/yoshed-it)
 
-📍 Seattle, WA | 📞 (206) 300-7432 | 📧 Yosh.Nebe@gmail.com
-🔗 GitHub: [github.com/yoshed-it](https://github.com/yoshed-it)
+---
 
-## Summary
+### Detail-oriented professional with 20 years of experience as a chef and manager, now seeking to transition into a career as a software developer. Proven leadership, problem-solving, and project management skills, honed through years of experience in high-pressure environments. Adept at learning new technologies and driven by a passion for innovation, I am eager to leverage my diverse background toward a successful career in software development.
 
-Detail-oriented professional with 15+ years of experience as a chef and manager, now seeking to transition into a career as an entry-level developer. Proven leadership, problem-solving, and project management skills, honed through years of experience in high-pressure environments. Adept at learning new technologies and driven by a passion for innovation, I am eager to leverage my diverse background towards a successful career in software development.
+---
 
 ## Current Projects
 
-### BoneDust Editor
-- Developed a simple item editor that converts input to JSON files
-- Enabled loading, editing, saving, and searching through directories for files
-- **Technologies:** Python, Tkinter
-- **Impact:** Streamlined game development item creation by automating JSON object formatting
+### LinkedIn Auto-Apply Bot – [GitHub](https://github.com/yoshed-it/linkedin_app_bot)
+- **Description:** Web Scraper that automates applying to LinkedIn’s quick apply function.  
+- **Features:**  
+  - Stores job data in a lightweight database (SQLAlchemy) for efficient management and tracking of applications.  
+  - Integrated elements of dynamic content handling, error management, and efficient scrolling within web containers to capture all relevant job listings.  
+  - Currently refining for increased functionality.  
+- **Technologies Used:** Python, Selenium, BeautifulSoup, SQL  
+- **Impact:** Streamlined job application process, reducing manual application time and enabling bulk job applications for efficiency.
 
-### Image Sizer CLI
-- Created a command-line interface tool for resizing images
-- Automated sanitization and renaming of images based on size
-- **Technologies:** Python, PIL (Python Imaging Library)
-- **Impact:** Improved image management and organization through automation
+### Image Sizer CLI – [GitHub](https://github.com/yoshed-it/image_sizer)
+- **Description:** Created a command-line interface tool for resizing images.  
+- **Features:**  
+  - Automated the sanitization and renaming of images based on size, saving copies with new names.  
+- **Technologies Used:** Python, PIL (Python Imaging Library)  
+- **Impact:** Improved image management and organization by automating resizing tasks, enhancing time management.
 
-## Professional Experience
+### Legacy of the Barback - [GitHub](https://github.com/yoshed-it/unnamed_bar_game)
+- **Description:** Stardew Valley-like game based around my time as a barback and bartender.  
+- **Features:**  
+  - Topdown 2d Rpg Game  
+  - Custom music from local seattle bands  
+  - Lots and Lots of Future Fun! 
+- **Technologies Used:** GDScript  
 
-### Freelance - Web & Native Development
-*DEC 2019 - Present*
-- Engaged in freelance projects focusing on game development tools, web design, and efficiency tools
-- Developed practical solutions such as Image Sizer CLI and interactive web experiences
+---
 
-### Beast & Cleaver
-**Sausage Maker | Production Manager | General Manager**
-*JUL 2021 – FEB 2024*
-- Managed product development and team coordination
-- Promoted to General Manager after demonstrating excellence in efficiency optimization and team leadership
+## Experience
 
-### Lady Jaye
-**Sausage Maker / Charcutier**
-*FEB 2021 – JUL 2021*
-- Innovated in recipe development and culinary processes
-- Demonstrated adaptability and creative problem-solving
+### Freelance - Web & Native Development  
+**October 2019 - Present**  
+- Engaged in a variety of freelance projects, focusing on game development tools, web design, and efficiency leveraging Python, Javascript, Godot, SQL, C#.  
+- Developed and delivered practical solutions such as the Image Sizer CLI and interactive web experiences.
 
-### Screwdriver Bar
-**Bartender / Designer**
-*DEC 2018 – FEB 2021*
-- Contributed to brand and web development
-- Applied technical skills and design thinking
+### Beast & Cleaver  
+**Production Manager | General Manager**  
+**July 2021 – February 2024**  
+- Managed product development and team coordination, showcasing project management skills.  
+- Promoted to General Manager after demonstrating excellence in efficiency optimization and team leadership.
 
-### White Swan Public House
-**Executive Chef**
-*AUG 2017 – AUG 2018*
-- Led menu engineering and kitchen management
-- Demonstrated skills in project life-cycle management and team collaboration
+### Screwdriver Bar  
+**Bartender / Designer**  
+**December 2018 – February 2021**  
+- Applied technical skills and design thinking to support cohesive brand creation and online presence.  
+- Utilized Adobe Photoshop, Illustrator, and the full Adobe Suite to develop a comprehensive brand guide, design signage, and produce high-quality visuals using a large-scale vinyl cutter.  
+- Learned end-to-end processes of vinyl production, sign making, and brand styling to ensure consistent, professional branding across media.
+
+### White Swan Public House  
+**Executive Chef**  
+**August 2017 – August 2018**  
+- Led menu engineering and kitchen management, aligning with skills in project life-cycle management and team collaboration.
+
+---
 
 ## Technical Skills
+- **Programming:** Python, JavaScript, HTML/CSS, React, SQL, MongoDB, C#, GDScript  
+- **Languages:** German, Spanish  
+- **Other Skills:** Graphic Design, Customer Service, Team Management, Inventory, Ordering, Budgeting, Product Development, Product Management, Compliance, Organization  
 
-### Programming
-- Languages: Python, JavaScript, HTML/CSS, React
-
-### Other Skills
-- Languages: German, Spanish
-- Additional Competencies: 
-  * Graphic Design
-  * Customer Service
-  * Team Management
-  * Inventory & Ordering
-  * Budgeting
-  * Product Development
-  * Compliance
-  * Organization
+---
 
 ## Education
 
-### Code Fellows
-**Advanced Software Development in Full-Stack JavaScript**
-*Boot-camp & Certification*
-*MAR – OCT 2019*
+### Code Fellows  
+**Advanced Software Development in Full-Stack JavaScript**  
+**Boot-camp & Certification**  
+**March – October 2019**
 
-### Seattle Central Community College
-**A.A. in Culinary Arts**
-*SEP 2005 – JUN 2007*
-
-## References
-Available upon request
+### Seattle Central Community College  
+**A.A. in Culinary Arts**  
+**September 2005 – June 2007**
