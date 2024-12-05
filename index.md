@@ -1,5 +1,5 @@
 # Josh “Yosh” Nebe
-**1545 NW Market St., Apt. 803, Seattle, WA 98107**  
+**Seattle, WA**  
 **(206) 300-7432 | Yosh.Nebe@gmail.com**  
 **GitHub:** [github.com/yoshed-it](https://github.com/yoshed-it)
 **Blog:** [dev.io/yoshed-it](https://dev.to/yoshed-it)
