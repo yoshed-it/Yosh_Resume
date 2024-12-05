@@ -1,5 +1,7 @@
-remote_theme: pages-themes/slate@v0.2.0 
-
+remote_theme: sharu725/online-cv
 plugins:
-- jekyll-remote-theme 
-title: "RESUME OF Josh 'Yosh' Nebe" 
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+title: "Josh 'Yosh' Nebe - Resume"
+description: "A professional resume and portfolio of Josh 'Yosh' Nebe."
