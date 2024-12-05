@@ -3,6 +3,7 @@
 **(206) 300-7432 | Yosh.Nebe@gmail.com**  
 **GitHub:** [github.com/yoshed-it](https://github.com/yoshed-it)
 **Blog:** [dev.io/yoshed-it](https://dev.to/yoshed-it)
+**LinkedIn:** [linkedin.com/in/josh-nebe](https://www.linkedin.com/in/josh-nebe)
 
 ---
 
